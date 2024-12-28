@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* -------------header part design =============== */
+header {
+    /* border: solid; */
+    padding: 10px;
+}
+header .c1 {
+    display: inline-block;
+    padding-right: 1100px;
+}
+header .c1 a {
+    margin-left: 20px;
+    color: #1f1f1f;
+    text-decoration: none;
+}
+header .c2 {
+    display: inline-block;
+}
+header .c2 a {
+    margin-left: 20px;
+    color: #1f1f1f;
+    text-decoration: none;
+}
+
+/* ------------Middle part Design---------------- */
+
+section {
+    /* border: solid; */
+    margin-top: 50px;
+}
+section .img {
+    margin-left: 580px;
+}
+section input {
+    width: 580px;
+    padding: 10px;
+    border-radius: 50px;
+    margin-left: 450px;
+    font-size: 15px;
+    border: 0.1px solid #bfb9b9;
+    margin-top: 25px;
+}
+section input:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+section .box {
+    margin-top: 40px ;
+    margin-left: 585px;
+}
+section .box a {
+    color: #1f1f1f;
+    padding: 10px 16px;
+    text-decoration: none;
+    background: #f8f9fA;
+}
+section .box a:hover {
+    border: 0.1px solid #ccced1;
+    border-radius: 5px;
+}
+section i {
+    display: inline-block;
+    margin-left: 580px;
+    margin-top: 40px;
+    font-size: 30px;
+    
+}
+section p {
+    display: inline-block;
+    
+}
+section p a {
+    text-decoration: none;   
+}
+section .lang {
+    margin-left: 400px;
+    margin-top: 40px;
+}
+section .lang p a {
+    padding-left: 15px;
+    word-spacing: 5px;
+}
+
+/* ---------------Footer partr design--------- */
+
+footer div p {
+    /* border: solid; */
+    margin-top: 155px;
+    padding: 20px 20px;
+    /* background: #f8f9fA; */
+    border-bottom: 0.1px solid #ccced1;
+}
+footer {
+    background: #f8f9fA;
+}
+footer .f1 {
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+footer .f2 {
+    display: inline-block;
+    margin-left: 950px;
+}
+footer .f1 a {
+    padding-left: 20px;
+    text-decoration: none;
+    color: #1f1f1f;
+    
+}
+footer .f2 a {
+    padding-left: 20px;
+    text-decoration: none;
+    color: #1f1f1f;
+}
+
+/* ---------------- The end ----------------------- */
